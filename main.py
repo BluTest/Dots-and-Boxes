@@ -19,6 +19,7 @@ dot_width = 0.25*size_of_board/number_of_dots
 edge_width = 0.1*size_of_board/number_of_dots
 distance_between_dots = size_of_board / (number_of_dots)
 maurice_password = 'B3n15Aw350m3!'
+maurice2_password = "B3n15Aw350m3!"
 
 class Dots_and_Boxes():
     # ------------------------------------------------------------------
